@@ -1,4 +1,4 @@
-## GaTo
+## Profile
 <p align="left">
   <a href="https://github.com/GaTo-Rfc">
     <img height="20" src="https://komarev.com/ghpvc/?username=GaTo-Rfc" />
